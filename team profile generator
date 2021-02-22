@@ -46,6 +46,8 @@
 ## Test Instructions
 * The developer to run test and require to dependencise with "jest". Jest is a javascript testing framework. 
 
+![Tesint](/images/logo.png)
+
 ## License
 * licensed under the [MIT License](LICENSE.txt) ![license https://img.shields.io/badge/license-MIT-yellow]
 

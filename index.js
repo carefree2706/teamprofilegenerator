@@ -18,7 +18,7 @@ function Prompt() {
         {
             type: 'list',
             name: 'role',
-            message:"What is the employee's role?",
+            message:"What is the role?",
             choices: ['Manager', 'Engineer', 'Intern']
         },
         {
